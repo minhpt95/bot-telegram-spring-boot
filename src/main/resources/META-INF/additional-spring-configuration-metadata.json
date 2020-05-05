@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "bot.Token",
+      "type": "java.lang.String",
+      "description": "Description for bot.Token."
+    }
+  ]
+}
